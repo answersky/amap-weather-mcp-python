@@ -1,5 +1,5 @@
 ## 高德地图天气预报
-    该高德地图天气预报 MCP Server 发布在 PyPI。
+    该高德地图天气预报 MCP Server。
 
 ## 提供接口类型
     提供了标准的studio协议
